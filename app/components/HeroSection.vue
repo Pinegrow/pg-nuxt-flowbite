@@ -20,7 +20,7 @@
         </h4>
         <h1 class="capitalize">Vue Designer</h1>
         <p
-          class="font-light max-w-2xl mb-6 mt-3 text-center text-gray-500 dark:text-gray-400 md:text-lg lg:mb-8 lg:text-left lg:text-xl"
+          class="font-light max-w-2xl mb-6 text-center text-gray-500 dark:text-gray-400 md:text-lg lg:mb-8 lg:text-left lg:text-xl"
         >
           A desktop drag-and-drop editor for Mac, Windows and Linux that lets
           you visually design your Vue apps.
