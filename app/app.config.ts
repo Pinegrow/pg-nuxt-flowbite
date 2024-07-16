@@ -4,7 +4,7 @@ export default defineAppConfig({
       // Inspired by https://ui.nuxt.com/elements/button#preset
       base: 'focus:outline-none focus-visible:outline-0 disabled:cursor-not-allowed disabled:opacity-75 flex-shrink-0',
       font: 'font-medium',
-      rounded: 'rounded-3xl',
+      rounded: 'rounded-xl',
       size: {
         '2xs': 'text-xs',
         xs: 'text-xs',
