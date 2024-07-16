@@ -1,4 +1,6 @@
 <script setup lang="ts">
+  import { heroImageUrl } from '@/utils/hero'
+
   const heroCaption = 'Welcome To'
   const heroTitle = 'Vue Designer'
   const heroDescription =
