@@ -22,6 +22,7 @@
     "format": "prettier --write \"**/*.{vue,js,jsx,cjs,mjs,ts,tsx,cts,mts,html,css,md,mdx,json}\" !public --ignore-path .gitignore"
   },
   "dependencies": {
+    "@nuxtjs/tailwindcss": "^6.12.1",
     "@pinia/nuxt": "^0.5.4",
     "@vee-validate/nuxt": "^4.13.2",
     "@vueuse/core": "^11.0.3",
@@ -41,7 +42,7 @@
     "@nuxtjs/html-validator": "^1.8.2",
     "@nuxtjs/seo": "^2.0.0-rc.19",
     "@pinegrow/nuxt-module": "^3.0.60",
-    "@pinegrow/tailwindcss-plugin": "^3.0.29",
+    "@pinegrow/tailwindcss-plugin": "^3.0.30",
     "@tailwindcss/forms": "^0.5.8",
     "@tailwindcss/typography": "^0.5.15",
     "@types/node": "^22.5.1",
@@ -49,15 +50,12 @@
     "@unocss/preset-icons": "^0.62.3",
     "@vue/devtools": "^6.6.3",
     "@vueuse/nuxt": "^11.0.3",
-    "autoprefixer": "^10.4.20",
     "eslint": "^9.9.1",
     "eslint-config-prettier": "^9.1.0",
     "npm-run-all": "^4.1.5",
     "nuxt-icon": "^0.6.10",
-    "postcss": "^8.4.41",
     "prettier": "^3.3.3",
     "rehype-external-links": "^3.0.0",
-    "tailwindcss": "^3.4.10",
     "typescript": "^5.5.4"
   },
   "pnpm": {
