@@ -1,0 +1,58 @@
+{
+  "files": {
+    "app/components/HeroSection.vue": {
+      "frameworks": [
+        "@nuxt/image",
+        "pg.insight.events",
+        "pg.vue.tree.painter",
+        "@nuxt/icon",
+        "pg.css.grid",
+        "pg.image.overlay",
+        "@vue/devtools",
+        "pg.code-validator",
+        "pg.project.items",
+        "@nuxt/devtools",
+        "pg.asset.manager",
+        "project",
+        "@unocss/preset-icons",
+        "app_designer",
+        "vue",
+        "nuxt",
+        "@pinegrow/nuxt-module",
+        "tw.flowbite",
+        "tw",
+        "pg.html"
+      ]
+    }
+  },
+  "template_framework_id": "vue",
+  "open-pages": ["app/components/HeroSection.vue"],
+  "breakpoints": ["640px", "768px", "1024px", "1280px", "1536px"],
+  "frameworks": [
+    "@nuxt/image",
+    "pg.insight.events",
+    "pg.vue.tree.painter",
+    "@nuxt/icon",
+    "pg.css.grid",
+    "pg.image.overlay",
+    "@vue/devtools",
+    "pg.code-validator",
+    "pg.project.items",
+    "@nuxt/devtools",
+    "pg.asset.manager",
+    "project",
+    "@unocss/preset-icons",
+    "app_designer",
+    "vue",
+    "nuxt",
+    "@pinegrow/nuxt-module",
+    "tw.flowbite",
+    "tw",
+    "pg.html"
+  ],
+  "urls": {
+    "app/components/HeroSection.vue": {
+      "open-page-views": [{ "w": 1024, "h": 0 }]
+    }
+  }
+}
