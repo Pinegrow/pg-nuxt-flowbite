@@ -97,7 +97,7 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 
 - [Tailwind CSS](https://tailwindcss.com/docs/guides/nuxtjs#3) - The amazing utility-first CSS framework.
 - [Flowbite](https://flowbite.com/docs/getting-started/quickstart/) - Beautiful UI [components](https://flowbite.com/#components) based on Tailwind CSS, along with a vast collection of design [blocks](https://flowbite.com/blocks/)(both free and premium) that are available for easy drag-and-drop from Vue Designer's library panel.
-  - **ACTION REQUIRED**: This template includes the recommended composable `app/composables/flowbite.ts`. To learn more about how to use this composable with interactive components, refer to the [Flowbite Nuxt](https://flowbite.com/docs/getting-started/nuxt-js/#data-attributes) Nuxt documentation.
+  - **ACTION REQUIRED**: This template includes the recommended composable `app/composables/flowbite.ts`. It also has the initialisation code for interactive components commented-out in `app.vue`, uncomment to use them as required. To learn more about how to use this composable with interactive components, refer to the [Flowbite Nuxt](https://flowbite.com/docs/getting-started/nuxt-js/#data-attributes) Nuxt documentation.
 
 ### File-based CMS (markdown)
 

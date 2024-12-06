@@ -2,6 +2,19 @@
   import site from '~~/site'
   import { heroImageUrl } from '@/utils/hero'
   import { primary, secondary } from '@/utils/colors'
+  // import {
+  //   initAccordions,
+  //   initCarousels,
+  //   initCollapses,
+  //   initDials,
+  //   initDismisses,
+  //   initDrawers,
+  //   initDropdowns,
+  //   initModals,
+  //   initPopovers,
+  //   initTabs,
+  //   initTooltips,
+  // } from 'flowbite'
 
   // import { useSiteConfig } from '#imports'
   // const siteConfig = useSiteConfig()
@@ -57,21 +70,21 @@
 
   // initialize components based on data attribute selectors
   // initialize only those components that are used in your app
-  onMounted(() => {
-    useFlowbite(() => {
-      initAccordions()
-      initCarousels()
-      initCollapses()
-      initDials()
-      initDismisses()
-      initDrawers()
-      initDropdowns()
-      initModals()
-      initPopovers()
-      initTabs()
-      initTooltips()
-    })
-  })
+  // onMounted(() => {
+  //   useFlowbite(() => {
+  //     initAccordions()
+  //     initCarousels()
+  //     initCollapses()
+  //     initDials()
+  //     initDismisses()
+  //     initDrawers()
+  //     initDropdowns()
+  //     initModals()
+  //     initPopovers()
+  //     initTabs()
+  //     initTooltips()
+  //   })
+  // })
 </script>
 <template>
   <div>
