@@ -10,6 +10,7 @@ import { safelist } from './app/utils/colors'
 import tailwindTypography from '@tailwindcss/typography'
 import tailwindForms from '@tailwindcss/forms'
 import tailwindCssPluginPinegrow from '@pinegrow/tailwindcss-plugin'
+import tailwindFlowbitePlugin from 'flowbite/plugin'
 
 export default {
   darkMode: 'class',
@@ -21,7 +22,7 @@ export default {
       fonts: getFontsWithFallback(pg_fonts),
       backgrounds: pg_backgrounds, // bg-design-image, bg-design-image-large
     }),
-    require('flowbite/plugin'),
+    tailwindFlowbitePlugin,
   ],
 
   safelist,
